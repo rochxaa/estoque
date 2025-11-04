@@ -1,0 +1,11 @@
+# Arquivos e pastas a serem ignorados
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.log
+venv/
+.env
+.idea/
+.vscode/
