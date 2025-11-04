@@ -5,7 +5,7 @@ Permite o **cadastro, listagem e gerenciamento de produtos**, além de um **sist
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**
 - **Tkinter** — interface gráfica
